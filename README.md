@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/nailong-heart-nailongheart-gif- whatever.gif" width="220"/>
-</p>
-
-<br>
-
-<p align="center">
   🎓 <b>Diploma in Information and Communication Technology</b><br>
   🎓 <b>BS Computer Science – Major in Machine Learning</b>
 </p>
@@ -34,7 +28,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,vscode" height="55"/>
 </p>
-
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github" height="55"/>
   &nbsp;
@@ -44,7 +38,7 @@
 ---
 
 <p align="center">
-  <img src="Nailong.gif" width="120"/>
+  <img src="transformer.gif" width="120"/>
 </p>
 
 <p align="center">
