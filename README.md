@@ -22,15 +22,19 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
 </p>
-<p
-<img src="Working.gif" width="120"/>
+
+<p align="center">
+  <img src="Working.gif" width="120"/>
 </p>
+
 <h3 align="center"><i>💻 Languages & Tools</i></h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,vscode" height="55"/>
 </p>
+
 <br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github" height="55"/>
   &nbsp;
