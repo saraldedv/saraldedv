@@ -1,15 +1,17 @@
 <h1 align="center">Den</h1>
 
-<br>
+<p align="center">
+  <img src="Angry Nailong.gif" width="120"/>
+</p>
 
 <p align="center">
-  <img src="https://tenor.com/view/nailong-heart-nailongheart-gif="220"/>
+  <img src="https://tenor.com/view/nailong-heart-nailongheart-gif- whatever.gif" width="220"/>
 </p>
 
 <br>
 
 <p align="center">
-  🎓 <b>Diploma in Information and Communication Technology</b> <br>
+  🎓 <b>Diploma in Information and Communication Technology</b><br>
   🎓 <b>BS Computer Science – Major in Machine Learning</b>
 </p>
 
@@ -27,8 +29,6 @@
   </a>
 </p>
 
----
-
 <h3 align="center"><i>💻 Languages & Tools</i></h3>
 
 <p align="center">
@@ -36,18 +36,18 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="0"/> 
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=black"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=black" height="30"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://tenor.com/view/nailong-heart-nailongheart-gif="120"/>
+  <img src="Nailong.gif" width="120"/>
 </p>
 
 <p align="center">
   🚀 <i>Currently improving my Machine Learning skills</i><br>
-  
   <i>Still learning...</i>
 </p>
