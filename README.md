@@ -22,7 +22,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
 </p>
+<p
 <img src="Working.gif" width="120"/>
+</p>
 <h3 align="center"><i>💻 Languages & Tools</i></h3>
 
 <p align="center">
