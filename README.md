@@ -1,37 +1,45 @@
-<h1 align="center">Hi 👋 I'm DENMAR YZELLE SARALDE</h1>
+<h1 align="center">DEN
 
 <p align="center">
-  <img src="https://media.giphy.com/media/your-gif-link.gif" width="200">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNndGZoZm1ta3dzcHM3eDVtY3ZrbmhrNndzczVhbGJ6czhjNTdtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.giff" width="250">
 </p>
 
 ---
 
-🎓 A Diploma in Information and Communication Technology graduate  
-🎓 Bachelor of Computer Science Major in Machine Learning  
+<p align="center">
+  🎓 A Diploma in Information and Communication Technology graduate  
+  <br>
+  🎓 Bachelor of Computer Science Major in Machine Learning
+</p> 
 
 ---
-
-## 🌐 Connect with me:
+<h2 align="center">
+  <i>🌐 Let's Connect</i>
+</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/_deewhyy/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/_deewhyy/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/denmar-yzelle-saralde">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/denmar-yzelle-saralde" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4da6ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 ---
 
-## 💻 Languages & Tools:
+<h2 align="center"><i>Languages & Tools</i></h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,react,php,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=python,java,vscode" height="55"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
 
 <p align="center">
+  🚀 Currently improving my Machine Learning skills
+  <br>
   <i>Still learning...</i>
 </p>
