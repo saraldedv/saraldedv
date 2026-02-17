@@ -1,7 +1,7 @@
 <h1 align="center">Den</h1>
 
 <p align="center">
-  <img src="Angry Nailong.gif" width="120"/>
+  <img src="Catty.gif" width="120"/>
 </p>
 
 <p align="center">
