@@ -1,45 +1,53 @@
-<h1 align="center">DEN
+<h1 align="center">Den</h1>
+
+<br>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNndGZoZm1ta3dzcHM3eDVtY3ZrbmhrNndzczVhbGJ6czhjNTdtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.giff" width="250">
+  <img src="https://tenor.com/view/nailong-heart-nailongheart-gif="220"/>
+</p>
+
+<br>
+
+<p align="center">
+  🎓 <b>Diploma in Information and Communication Technology</b> <br>
+  🎓 <b>BS Computer Science – Major in Machine Learning</b>
 </p>
 
 ---
 
-<p align="center">
-  🎓 A Diploma in Information and Communication Technology graduate  
-  <br>
-  🎓 Bachelor of Computer Science Major in Machine Learning
-</p> 
-
----
-<h2 align="center">
-  <i>🌐 Let's Connect</i>
-</h2>
+<h3 align="center"><i>🌐 Let's Connect</i></h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/_deewhyy/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/_deewhyy/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/denmar-yzelle-saralde" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4da6ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/denmar-yzelle-saralde">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
 </p>
+
 ---
 
-<h2 align="center"><i>Languages & Tools</i></h2>
+<h3 align="center"><i>💻 Languages & Tools</i></h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,vscode" height="55"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" height="0"/> 
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=black"/>
 </p>
 
 ---
 
 <p align="center">
-  🚀 Currently improving my Machine Learning skills
-  <br>
+  <img src="https://tenor.com/view/nailong-heart-nailongheart-gif="120"/>
+</p>
+
+<p align="center">
+  🚀 <i>Currently improving my Machine Learning skills</i><br>
+  
   <i>Still learning...</i>
 </p>
